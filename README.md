@@ -1,13 +1,20 @@
-# Software Programming Primer
+<!--
+* browser: software-programming-guide
+* tracker: 7d0cf1f1545014a40c21123534deaadc
+* version: 1.0.0
+* updated: 2023-07-26T10:54:04Z
+* contact: Joel Parker Henderson (http://joelparkerhenderson.com)
+* options: commentable
+-->
+
+# Software Programming Guide
 
 <img src="README.jpg" alt="splash" style="width: 100%;"/>
 
-Software Programming Primer: Concepts, Tactics, Ideas.
+Software Programming Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes.
 
-This is a glossary guide e-book, with one topic per page. 
-
-* Download the [free e-book](software-programming-primer.pdf).
-* If you wish, [pay what you want](https://gumroad.com/l/software-programming-primer).
+* Download the [free e-book](software-programming-guide.pdf).
+* If you wish, [pay what you want](https://gumroad.com/l/software-programming-guide).
 * Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson).
 * For questions and suggestions [email me](mailto:joel@joelparkerhenderson.com).
 
@@ -18,7 +25,7 @@ Introduction
   * What is this book?
   * Who is this for?
   * Why am I creating this?
-  * Are there other primers?
+  * Are there other guides?
 
 Programming paradigms
 
@@ -451,16 +458,16 @@ Conclusion
   * About the ebook
   * About related projects
 
-## All our primers
+## All our guides
 
-* [Innovation Partnership Primer](https://github.com/sixarm/innovation-partnership-primer)
+* [Innovation Partnership Primer](https://github.com/sixarm/innovation-partnership-guide)
 
-* [Startup Business Primer](https://github.com/sixarm/startup-business-primer)
+* [Startup Business Primer](https://github.com/sixarm/startup-business-guide)
 
-* [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
+* [Business Lingo Primer](https://github.com/sixarm/business-lingo-guide)
 
-* [Software Programming Primer](https://github.com/sixarm/software-programming-primer)
+* [Software Programming Guide](https://github.com/sixarm/software-programming-guide)
 
-* [UI/UX Design Primer](https://github.com/sixarm/ui-ux-design-primer)
+* [UI/UX Design Primer](https://github.com/sixarm/ui-ux-design-guide)
 
-* [Software Programming Primer](https://github.com/sixarm/software-programming-primer)
+* [Software Programming Guide](https://github.com/sixarm/software-programming-guide)

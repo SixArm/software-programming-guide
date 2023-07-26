@@ -1,4 +1,4 @@
-### [Introduction](software-programming-primer-introduction)
+### [Introduction](software-programming-guide-introduction)
 
 ### [Programming paradigms](programming-paradigms)
 
@@ -390,7 +390,7 @@
 * [The Principle of Least Knowledge (The Law of Demeter)](the-principle-of-least-knowledge)
 * [Chesterton's fence](chestertons-fence)
 * [The Tragedy of the Commons](the-tragedy-of-the-commons)
-* For more see our [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
+* For more see our [Business Lingo Primer](https://github.com/sixarm/business-lingo-guide)
 
 ### [Idioms](idioms)
 
@@ -398,7 +398,7 @@
 * Convention over configuration - TODO
 * [Rubber duck debugger](rubber-duck-debugger)
 * [White hat versus black hat hacker](white-hat-versus-black-hat)
-* For more see our [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
+* For more see our [Business Lingo Primer](https://github.com/sixarm/business-lingo-guide)
 
 ### [Soft skills](soft-skills)
 
@@ -425,7 +425,7 @@
 * DSL - TODO
 
 
-### [Conclusion](software-programming-primer-conclusion)
+### [Conclusion](software-programming-guide-conclusion)
 
 * [About the editor](about-the-editor)
 * [About the AI](about-the-ai)
