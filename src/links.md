@@ -23,13 +23,48 @@
 ### [Algorithms](algorithms)
 
 * [Sort algorithms](sort-algorithms)
+  * [Bubble sort algorithm](bubble-sort-algorithm)
+  * [Insertion sort algorithm](insertion-sort-algorithm)
+  * [Quick sort algorithm](quick-sort-algorithm)
+  * [Merge sort algorithm](merge-sort-algorithm)
+  * [Heap sort algorithm](heap-sort-algorithm)
 * [Search algorithms](search-algorithms)
+  * [Linear search algorithm](linear-search-algorithm) 
+  * [Breadth-first search (BFS)](breadth-first-search)
+  * [Depth-first search (DFS)](depth-first-search)
+  * [Binary heap](binary-heap)
+  * [Red-black tree](red-black-tree)
+  * [Binary search tree](binary-search-tree)
+  * [Balanced tree](balanced-tree)
+  * [Splay tree](splay-tree)
+  * [AVL tree](avl-tree) 
+* [String search algorithms](string-search-algorithms)
+  * [Rabin-Karp algorithm](rabin-karp-algorithm)
+  * [Boyer-Moore algorithm](boyer-moore-algorithm)
+  * [Knuth-Morris-Pratt algorithm](knuth-morris-pratt-algorithm)
+  * [Aho-Corasick algorithm](aho-corasick-algorithm)
 * [Graph algorithms](graph-algorithms)
+  * [Dijkstra's algorithm](dijkstras-algorithm)
+  * [Floyd-Warshall algorithm](floyd-warshall-algorithm)
+  * [Bellman-Ford algorithm](bellman-ford-algorithm)
+  * [Topological sort algorithm](topological-sort-algorithm)
+  * [Strongly connected components (SCC)](strongly-connected-components)
+  * [Minimum spanning tree (MST)](minimum-spanning-tree)
+  * [Kruskal's algorithm](kruskals-algorithm)
+  * [Kosaraju's algorithm](kosarajus-algorithm)
+* [Cryptography algorithms](cryptography-algorithms)
 * [Dynamic programming algorithms](dynamic-programming-algorithms)
-* [Constraint satisfaction algorithms](constraint-satisfaction-algorithms)
+* [Genetic algorithms](genetic-algorithms)
 * [Consensus algorithms](consensus-algorithms)
+* [Constraint satisfaction algorithms](constraint-satisfaction-algorithms)
+* [Quality of service (qos) algorithms](quality-of-service-algorithms)
+* [Networking algorithms](networking-algorithms)
+* [Load balancing algorithms](load-balancing-algorithms)
 * [MapReduce](map-reduce)
 * [Sieve of Eratosthenes](sieve-of-eratosthenes)
+* [Edit distance algorithm (a.k.a. Levenshtein distance)](edit-distance-algorithm)
+* [Error detection algorithms](error-detection-algorithms)
+* [Error correction algorithms](error-correction-algorithms)
 
 ## Data
 
@@ -60,12 +95,17 @@
 ### [Data structures](data-structures)
 
 * [Array data structure](array-data-structure)
+* [Stack data structure](stack-data-structure)
+* [Queue data structure](queue-data-structure)
+* [Hash table data structure (a.k.a. hash map)](hash-table-data-structure)
+* [Linked list data structure](linked-list-data-structure)
 * [Graph data structure](graph-data-structure)
 * [Tree data structure](tree-data-structure)
+  * See: binary heap, AVL tree, binary tree, red-black tree, splay tree
 * [Tagged union](tagged-union)
 * [Bloom filter](bloom-filter)
 * [Kalman filter](kalman-filter)
-
+  
 ### Data tactics
 
 * [Data schema](data-schema)
@@ -101,13 +141,14 @@
 * Responsible disclosure: see coordinated disclosure
 * [Compression](compression)
 * [Caching](caching)
-* Russian-doll caching - TODO
+* [Russian-doll caching](russian-doll-caching)
 * [Cryptography](cryptography)
 * [Encoding](encoding)
 * [Encryption](encryption)
 * [Homomorphic encryption](homomorphic-encryption)
-* Inheritance - TODO
-* Composition - TODO
+* [Inheritance](inheritance)
+* [Composition](composition)
+* [Interface](interface)
 * [Recursion](recursion)
 * [Federation](federation)
 * [Memoization](memoization)
@@ -125,16 +166,16 @@
 
 ### Runtime - TODO
 
-* Memory management - TODO
-* Garbage collection - TODO
+* [Memory management](memory-management)
+* [Garbage collection](garbage-collection)
 * [Asynchronous processing (asynchronicity)](asynchronous-processing)
 * [Parallel processing (parallelism)](parallel-processing)
 * [Concurrent processing (concurrency)](concurrent-processing)
 
 ### [Software architecture](software-architecture)
 
-* Monolith architecture - TODO
-* Microservice architecture - TODO
+* [Monolith architecture](monolith-architecture)
+* [Microservice architecture](microservice-architecture)
 * [Service-oriented architecture (SOA)](service-oriented-architecture)
 * [Event-Driven Architecture (EDA)](event-driven-architecture)
 * [Representational State Transfer (REST)](representational-state-transfer)

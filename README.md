@@ -50,13 +50,48 @@ Software design approaches
 Algorithms
 
   * Sort algorithms
+    * Bubble sort algorithm
+    * Insertion sort algorithm
+    * Quick sort algorithm
+    * Merge sort algorithm
+    * Heap sort algorithm
   * Search algorithms
+    * Linear search algorithm
+    * Breadth-first search (BFS)
+    * Depth-first search (DFS)
+    * Binary heap
+    * Red-black tree
+    * Binary search tree
+    * Balanced tree
+    * Splay tree
+    * AVL tree
+  * String search algorithms
+    * Rabin-Karp algorithm
+    * Boyer-Moore algorithm
+    * Knuth-Morris-Pratt algorithm
+    * Aho-Corasick algorithm
   * Graph algorithms
+    * Dijkstra's algorithm
+    * Floyd-Warshall algorithm
+    * Bellman-Ford algorithm
+    * Topological sort algorithm
+    * Strongly connected components (SCC)
+    * Minimum spanning tree (MST)
+    * Kruskal's algorithm
+    * Kosaraju's algorithm
+  * Cryptography algorithms
   * Dynamic programming algorithms
-  * Constraint satisfaction algorithms
+  * Genetic algorithms
   * Consensus algorithms
+  * Constraint satisfaction algorithms
+  * Quality of service (qos) algorithms
+  * Networking algorithms
+  * Load balancing algorithms
   * MapReduce
   * Sieve of Eratosthenes
+  * Edit distance algorithm (a.k.a. Levenshtein distance)
+  * Error detection algorithms
+  * Error correction algorithms
 
 Data
 
@@ -128,13 +163,13 @@ Technology tactics
   * Responsible disclosure: see coordinated disclosure
   * Compression
   * Caching
-  * Russian-doll caching - TODO
+  * Russian-doll caching
   * Cryptography
   * Encoding
   * Encryption
   * Homomorphic encryption
-  * Inheritance - TODO
-  * Composition - TODO
+  * Inheritance
+  * Composition
   * Recursion
   * Federation
   * Memoization
@@ -152,16 +187,16 @@ Technology tactics
 
 Runtime - TODO
 
-  * Memory management - TODO
-  * Garbage collection - TODO
+  * Memory management
+  * Garbage collection
   * Asynchronous processing (asynchronicity)
   * Parallel processing (parallelism)
   * Concurrent processing (concurrency)
 
 Software architecture
 
-  * Monolith architecture - TODO
-  * Microservice architecture - TODO
+  * Monolith architecture
+  * Microservice architecture
   * Service-oriented architecture (SOA)
   * Event-Driven Architecture (EDA)
   * Representational State Transfer (REST)
