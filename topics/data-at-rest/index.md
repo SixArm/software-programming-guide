@@ -1,0 +1,11 @@
+# Data-at-rest
+
+Data-at-rest refers to data that is stored in a persistent storage medium, such as a hard drive, solid-state drive, magnetic tape, or any other long-term storage media. This data can be in the form of files, databases, backups, archives, or any other format that is saved to a physical storage device. Data at rest can be both structured and unstructured data, including text, images, videos, or any other digital content.
+
+Protecting data-at-rest is essential for maintaining the confidentiality, integrity, and availability of sensitive information. Data at rest is vulnerable to various threats, including theft, loss, unauthorized access, and malicious attacks. To mitigate these risks, several security measures can be implemented, including encryption, access control, backup, and disaster recovery.
+
+Encryption is a crucial security measure used to protect data-at-rest. It involves converting plaintext data into ciphertext using cryptographic algorithms. The encrypted data can only be accessed by authorized users who have the decryption key. This makes it more difficult for attackers to access sensitive data if the storage medium is stolen or compromised.
+
+Access control is another critical security measure that is used to control who can access data-at-rest. Access control can be implemented using various techniques, including authentication, authorization, and permission-based access control. These techniques ensure that only authorized personnel can access the data, and they can only access the data they are authorized to access.
+
+Backups and disaster recovery are also crucial security measures for protecting data-at-rest. Backups involve making copies of data-at-rest and storing them in a secure location, separate from the primary storage medium. This ensures that if the primary storage medium is lost or damaged, the data can be restored from the backup. Disaster recovery involves developing a plan for restoring data in the event of a disaster, such as a natural disaster, cyberattack, or system failure.

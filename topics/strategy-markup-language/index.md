@@ -1,0 +1,9 @@
+# Strategy Markup Language (StratML)
+
+Strategy Markup Language (StratML) is an open standard that provides a common framework for describing and sharing strategic plans and related performance information in a structured and machine-readable format. It is a XML-based language that defines a set of elements and attributes that can be used to capture and convey strategic goals, objectives, actions, resources, and measures, along with the relationships among them.
+
+StratML was developed by the United States government, specifically the Interagency Committee on Government Information (ICGI), in response to a mandate from the Office of Management and Budget (OMB) to standardize the way federal agencies report on their strategic plans and performance. The goal of StratML is to improve transparency, accountability, and collaboration across government agencies and with the public by making it easier to share and compare strategic information.
+
+StratML provides a hierarchical structure for organizing strategic information, with a top-level goal element that can be broken down into objectives, strategies, tactics, and measures. Each element can have associated metadata, such as ownership, status, priority, and timeframe, which can be used to track progress and assess performance. StratML also includes provisions for linking related plans and measures, as well as for versioning and archiving plan information.
+
+StratML is designed to be flexible and extensible, allowing organizations to adapt it to their specific needs and goals. It can be used to capture strategic plans at different levels of detail, from high-level vision statements to detailed action plans. It can also be used to integrate with other management systems, such as performance management, budgeting, and project management.

@@ -1,0 +1,9 @@
+# Eventually-consistent database
+
+An eventually-consistent database is a type of distributed database system that allows for high scalability and availability while providing weaker guarantees about data consistency compared to traditional transactional databases. In other words, it allows for multiple copies of the database to be updated asynchronously, with updates being propagated between the copies over time, rather than in real-time.
+
+The primary reason for using eventually-consistent databases is to ensure that the system remains highly available, even in the face of network partitions or other failures. In a highly available system, the database must be able to respond to requests even if some nodes in the distributed system are down or unreachable. By allowing updates to be applied independently and asynchronously across multiple nodes, eventually-consistent databases can continue to operate even if some nodes are temporarily unavailable or disconnected from the network.
+
+However, this approach can lead to situations where different copies of the data are out of sync, leading to conflicts and inconsistencies. To address this issue, eventually-consistent databases typically use conflict resolution mechanisms that allow for different versions of the same data to be reconciled and merged together over time. This can involve techniques like timestamp-based conflict resolution or using application-specific logic to resolve conflicts.
+
+The benefits of using eventually-consistent databases include high scalability and availability, but the tradeoff is weaker guarantees about data consistency. As a result, they are often used in applications where real-time consistency is not critical, such as data analytics, content distribution networks, or social networks.

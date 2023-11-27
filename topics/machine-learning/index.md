@@ -1,0 +1,9 @@
+# Machine learning (ML)
+
+Machine learning (ML) is a subset of artificial intelligence (AI) that involves the use of statistical algorithms to enable machines to learn from and make decisions based on data. Essentially, it is a way of training computers to identify patterns in data and use those patterns to make predictions or decisions without being explicitly programmed.
+
+This is done through the use of algorithms, which are mathematical models that are designed to identify patterns in data. These algorithms are trained on a dataset, which is a collection of data that has been labeled or classified in some way. For example, a dataset of cat and dog images might be labeled as such, so that the algorithm can learn to differentiate between the two. Once the algorithm has been trained, it can be used to make predictions or decisions based on new data that it has not seen before.
+
+There are many different types of ML algorithms, each designed to perform specific tasks. For example, some algorithms are designed to classify data into different categories, while others are designed to predict future values based on past data. Some popular ML algorithms include decision trees, random forests, support vector machines, neural networks, and deep learning models.
+
+ML is used in a wide range of applications, including image and speech recognition, natural language processing, recommendation systems, fraud detection, and predictive analytics. As the amount of data available continues to grow, and the computing power needed to process that data becomes more accessible, the applications of ML are only expected to expand.

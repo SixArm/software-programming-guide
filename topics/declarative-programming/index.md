@@ -1,0 +1,9 @@
+# Declarative programming
+
+Declarative programming is a programming paradigm that focuses on what a program should accomplish, rather than how it should accomplish it. In declarative programming, the programmer specifies the desired output or result, and the programming language automatically determines the necessary steps to achieve that result. The language provides abstractions and constructs that enable the programmer to express high-level concepts and relationships in a concise and natural way. Declarative programming languages include include logic programming and constraint programming.
+
+One of the primary advantages of declarative programming is its ability to reduce complexity and improve readability by focusing on the problem domain rather than implementation details. Declarative programming languages can also be easier to maintain and debug since they separate the program's logic from its implementation. However, declarative programming languages can sometimes be less efficient than imperative programming languages due to their reliance on automatic inference and deduction.
+
+* Logic programming focuses on logical relationships between elements. The program consists of a set of logical rules and facts that describe the problem domain. The language provides constructs for logical inference and deduction, allowing the program to automatically generate solutions to problems. Prolog is a well-known example of a logic programming language.
+
+* Constraint programming focuses on defining constraints on variables. The program consists of a set of variables and constraints that describe the problem domain. The language provides constructs for defining and solving these constraints, allowing the program to automatically generate solutions to problems. Examples of constraint programming languages include ECLiPSe and MiniZinc.

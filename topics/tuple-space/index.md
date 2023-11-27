@@ -1,0 +1,7 @@
+# Tuple space
+
+A tuple space is a distributed system that enables loosely-coupled, asynchronous communication and coordination among a set of autonomous and concurrent processes. It provides a shared data repository where processes can deposit and retrieve data structures, called tuples, without the need for explicit message passing or synchronization. The tuple space acts as an intermediary between the processes, storing the tuples until they are requested by other processes.
+
+The basic operation of a tuple space is as follows: a process can insert a tuple into the tuple space by specifying the tuple's attributes, or it can retrieve a tuple by specifying a set of attribute values to match. When a process retrieves a tuple, the tuple space returns a copy of the matching tuple and removes it from the space. If no matching tuple is found, the process can wait for a tuple to become available or continue processing without the desired tuple.
+
+Tuple spaces can be implemented in different ways, such as shared memory, message passing, or distributed databases. They can be used to support a variety of applications, including distributed computing, event-driven systems, and multi-agent systems. Tuple spaces provide a flexible and scalable communication mechanism that can simplify the development of distributed applications by decoupling the coordination logic from the application logic.

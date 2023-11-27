@@ -1,0 +1,7 @@
+# Piggyback attack
+
+A piggyback attack, in the context of security, refers to the act of an unauthorized individual gaining entry to a secure area or system by closely following an authorized person through an access control point, such as a door or sign in. The piggybacking attacker can either deceive the authorized person into allowing them access, or simply force their way through the access point. Piggybacking is also known as tailgating.
+
+This type of attack can pose significant security risks, especially in environments where physical access control is critical. For example, in a data center or server room, unauthorized physical access can result in the theft of sensitive data or hardware, or even complete system compromise. Piggybacking can also be used as a tactic for social engineering attacks, where the attacker may use their access to gain additional sensitive information or to install malware on a system.
+
+To prevent piggyback attacks, it is important to establish and enforce strict access control policies, such as requiring all individuals to present valid identification or use an access card or biometric authentication. Additionally, security personnel should be trained to recognize and challenge individuals who attempt to enter restricted areas without authorization. Technical controls, such as video surveillance and intrusion detection systems, can also be used to monitor access control points and detect unauthorized access attempts.
