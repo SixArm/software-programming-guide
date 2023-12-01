@@ -1,9 +1,14 @@
 ---
-title: "Mast Cell Help"
-subtitle: "Symptoms • Conditions • Treatments"
+title: "Software Programming Guide"
+subtitle: "Concepts • Tactics • Ideas"
 author: "Edited by Joel Parker Henderson"
-date: "Version 0.8.0"
-description: "Mast Cell Help is a guidebook, a glossary for patients, caregivers, doctors, and healthcare providers."
+date: "Version 1.1.0"
+description: >
+  Topics include programming paradigms, software design approaches, software
+  development methodologies, algorithms, data structures, design patterns,
+  databases, security, testing and quality control, version control, devops,
+  modeling languages and diagrams, digital transformation, change management,
+  artificial intelligence, and more.
 titlepage: true
 titlepage-color: "FFFFFF"
 titlepage-text-color: "000000"

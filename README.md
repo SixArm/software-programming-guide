@@ -13,10 +13,10 @@
 
 Software Programming Guide: this book explains one topic per page, like a big glossary, easy wiki, quick encyclopedia, or summary notes.
 
-* Download the [free e-book](topics/software-programming-guide.pdf).
-* If you wish, [pay what you want](https://gumroad.com/l/software-programming-guide).
+* Download the free e-book file [EPUB](software-programming-guide.epub) or [PDF](software-programming-guide.pdf).
+* Or pay what you wish with [Gumroad](https://gumroad.com/l/software-programming-guide) or [Zylvie](https://zylvie.com/joelparkerhenderson/p/software-programming-guide).
 * Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson).
-* For questions and suggestions [email me](topics/mailto:joel@joelparkerhenderson.com).
+* For questions and suggestions [email me](mailto:joel@joelparkerhenderson.com).
 
 ## Contents
 
@@ -496,14 +496,10 @@ Software Programming Guide: this book explains one topic per page, like a big gl
 
 ## All our guides
 
-* [Innovation Partnership Primer](https://github.com/sixarm/innovation-partnership-guide/)
-
-* [Startup Business Primer](https://github.com/sixarm/startup-business-guide/)
-
-* [Business Lingo Primer](https://github.com/sixarm/business-lingo-guide/)
-
-* [Software Programming Guide](https://github.com/sixarm/software-programming-guide/)
-
-* [UI/UX Design Primer](https://github.com/sixarm/ui-ux-design-guide/)
-
-* [Software Programming Guide](https://github.com/sixarm/software-programming-guide/)
+* [Innovation Partnership Guide](https://github.com/sixarm/innovation-partnership-guide)
+* [Startup Business Guide](https://github.com/sixarm/startup-business-guide)
+* [Business Lingo Guide](https://github.com/sixarm/business-lingo-guide)
+* [Project Management Guide](https://github.com/sixarm/project-management-guide)
+* [UI/UX Design Guide](https://github.com/sixarm/ui-ux-design-guide)
+* [Software Programming Guide](https://github.com/sixarm/software-programming-guide)
+* [AI Starter Guide](https://github.com/sixarm/ai-starter-guide)
