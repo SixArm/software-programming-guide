@@ -1,6 +1,6 @@
 # Inheritance
 
-Inheritance, in the context of computer science and object-oriented programming (OOP), is a fundamental concept that allows one class to inherit the properties and behaviors (i.e., data fields and methods) of another class. It's one of the core principles of OOP and is used to model relationships and create hierarchies among classes. 
+Inheritance, in the context of computer science and object-oriented programming (OOP), is a fundamental concept that allows one class to inherit the properties and behaviors (i.e., data fields and methods) of another class. It's one of the core principles of OOP and is used to model relationships and create hierarchies among classes.
 
 Inheritance provides code reusability, extensibility, and a way to represent an "is-a" relationship between classes. For example, if you have a base class "Vehicle," you can create derived classes like "Car" and "Truck" that are both vehicles. The relationship is "Car is a Vehicle" and "Truck is a Vehicle."
 

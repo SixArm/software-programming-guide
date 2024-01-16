@@ -1,6 +1,6 @@
 # Graph algorithms
 
-Graph algorithms are a set of techniques used to solve problems that involve graphs, which are data structures composed of nodes and edges that connect them. 
+Graph algorithms are a set of techniques used to solve problems that involve graphs, which are data structures composed of nodes and edges that connect them.
 
 Some common ones:
 

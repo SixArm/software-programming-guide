@@ -2,7 +2,7 @@
 
 A relational database is a type of database that stores data in a structured manner, with data organized into tables that are related to each other based on common fields. It uses a set of tables to store data, where each table has a set of columns and each row contains a single record.
 
-Key components…
+**Key aspects:**
 
 * Tables: The data in a relational database is organized into tables, with each table containing a collection of related data. Each table consists of rows and columns, with each row representing a single record and each column representing a specific piece of information about the record.
 

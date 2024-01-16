@@ -13,7 +13,7 @@ Some common categories and examples:
 * Public Key Infrastructure (PKI): PKI is a framework of algorithms and standards to manage digital certificates, key distribution, and secure communication. Example: X.509.
 
 * Symmetric Key Exchange Protocols: Facilitate key sharing. Example: Diffie-Hellman Key Exchange.
-  
+
 * Digital Signature Algorithms: Provide authentication and non-repudiation. Example: DSA (Digital Signature Algorithm).
 
 * Stream ciphers encrypt data bit by bit or byte by byte. Example: RC4 (Rivest Cipher 4).

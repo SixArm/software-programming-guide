@@ -2,7 +2,7 @@
 
 A red-black tree is a type of self-balancing binary search tree (BST) data structure. It provides efficient operations for insertion, deletion, and searching. Red-black trees maintain a roughly balanced structure, which guarantees that the longest path from the root to any leaf node is at most twice as long as the shortest path. These trees are suitable for a wide range of applications.
 
-Key aspects:
+**Key aspects:**
 
 * Node Color: Each node in the tree is either red or black.
 

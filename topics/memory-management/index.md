@@ -1,6 +1,6 @@
 # Memory management
 
-Memory management is a critical component of modern computer systems and operating systems. It involves the management of a computer's primary memory (RAM) and secondary memory (e.g., hard drives) to ensure efficient, reliable, and secure storage and retrieval of data and program code. Memory management is essential for optimizing the use of available memory resources and preventing issues like memory leaks and data corruption. 
+Memory management is a critical component of modern computer systems and operating systems. It involves the management of a computer's primary memory (RAM) and secondary memory (e.g., hard drives) to ensure efficient, reliable, and secure storage and retrieval of data and program code. Memory management is essential for optimizing the use of available memory resources and preventing issues like memory leaks and data corruption.
 
 Computer systems typically have multiple levels of memory, organized in a hierarchy. Registers and cache memory provide the fastest access, followed by RAM (main memory), and secondary storage (e.g., hard drives). Effective memory management involves moving data between these levels efficiently.
 

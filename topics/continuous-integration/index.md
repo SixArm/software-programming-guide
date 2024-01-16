@@ -2,7 +2,7 @@
 
 Continuous Integration (CI) is a software development practice that involves frequently integrating code changes into a shared repository, often multiple times per day. The primary goal of CI is to ensure that code changes are thoroughly tested and validated before they are integrated into the main codebase. This helps to identify and fix integration issues early in the development cycle, before they become larger problems.
 
-Typical steps…
+**General steps:**
 
 Source code management: Developers frequently commit code changes to a shared repository, such as Git.
 

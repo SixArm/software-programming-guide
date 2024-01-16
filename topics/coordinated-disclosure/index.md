@@ -2,7 +2,7 @@
 
 Coordinated disclosure is a process of reporting security vulnerabilities or bugs found in systems to the systems' owners. Coordinated disclosure is important because it allows security vulnerabilities to be addressed and fixed before they can be exploited by malicious actors. This helps protect users, data, and systems from potential harm.
 
-Key steps…
+**Key aspects:**
 
 1. Discovery: The first step is discovering a security vulnerability or bug. For example, security researchers can identify potential vulnerabilities in software or hardware systems.
 

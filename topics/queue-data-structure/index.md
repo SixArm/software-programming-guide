@@ -8,7 +8,7 @@ Common ways to implement queues are with arrays or linked lists. Arrays provide 
 
 Common use cases for queues include managing tasks in scheduling algorithms, implementing breadth-first search in graph traversal, and handling request processing in computer systems.
 
-Key operations…
+**Key aspects:**
 
 Enqueue: Adding an element to the back of the queue. The new element becomes the last element.
 

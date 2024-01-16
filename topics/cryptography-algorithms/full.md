@@ -1,10 +1,10 @@
 # Cryptography algorithms
 
-Cryptography algorithms are techniques and mathematical procedures used to secure data and communications by transforming plaintext (original data) into ciphertext (encrypted data) in such a way that only authorized parties can decipher and read the information. Cryptography plays a vital role in ensuring data privacy, authentication, integrity, and non-repudiation in various applications, including secure communication, e-commerce, and data protection. There are numerous cryptographic algorithms, each serving specific purposes. 
+Cryptography algorithms are techniques and mathematical procedures used to secure data and communications by transforming plaintext (original data) into ciphertext (encrypted data) in such a way that only authorized parties can decipher and read the information. Cryptography plays a vital role in ensuring data privacy, authentication, integrity, and non-repudiation in various applications, including secure communication, e-commerce, and data protection. There are numerous cryptographic algorithms, each serving specific purposes.
 
 Common categories of cryptographic algorithms and an example of each…
 
-Symmetric Key Algorithms (Private Key Cryptography): In symmetric key cryptography, the same key is used for both encryption and decryption. It is fast and efficient but requires secure key exchange between parties. Examples: AES (Advanced Encryption Standard) is a widely-used block cipher. 
+Symmetric Key Algorithms (Private Key Cryptography): In symmetric key cryptography, the same key is used for both encryption and decryption. It is fast and efficient but requires secure key exchange between parties. Examples: AES (Advanced Encryption Standard) is a widely-used block cipher.
 
 Asymmetric Key Algorithms (Public Key Cryptography): Asymmetric key cryptography uses a pair of public and private keys. Data encrypted with one key can only be decrypted with the other key. It provides key exchange and digital signatures. Example: RSA (Rivest–Shamir–Adleman) is a widely-used algorithm for secure key exchange and digital signatures.
 

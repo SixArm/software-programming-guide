@@ -1,4 +1,4 @@
-# Microservice architecture 
+# Microservice architecture
 
 Microservice architecture is a software design approach that structures an application as a collection of small, loosely coupled, and independently deployable services. Each service within a microservices architecture is responsible for a specific piece of functionality and can be developed, deployed, and scaled independently. This approach is in contrast to monolithic architectures, where all functionality is contained within a single, tightly integrated application.
 

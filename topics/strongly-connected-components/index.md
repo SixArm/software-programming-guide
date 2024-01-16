@@ -4,7 +4,7 @@ Strongly Connected Components (SCCs) are subsets of vertices in a directed graph
 
 SCCs are essential in various applications, such as optimizing network flows, analyzing program control flow, and identifying communities in social networks.
 
-One of the most commonly used algorithms to find SCCs is Kosaraju's algorithm. 
+One of the most commonly used algorithms to find SCCs is Kosaraju's algorithm.
 
 Steps:
 

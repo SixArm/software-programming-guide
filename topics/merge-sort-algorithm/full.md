@@ -1,5 +1,5 @@
 # Merge sort algorithm
- 
+
 Merge sort is an efficient, comparison-based sorting algorithm that follows the divide-and-conquer strategy to sort a list or array. It works by dividing the unsorted list into smaller sublists, sorting each sublist, and then merging the sorted sublists back together to create a single sorted list. Merge sort is a stable sorting algorithm and is often used as a standard for sorting.
 
 Merge sort has a time complexity of O(n log n) and is known for its stable and efficient sorting performance.

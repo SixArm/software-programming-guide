@@ -6,7 +6,7 @@ The algorithm works by maintaining a set of nodes for which the shortest path fr
 
 Steps:
 
-1. Initialize: Initialize a list or array to store the shortest distance from the starting node to each node. Initialize the distance to the starting node as 0 and set the distance to all other nodes as infinity. Initialize a priority queue or min-heap to store nodes by their distance values, then add the starting node with a distance of 0 to the queue. Initalize a set or array to keep track of visited nodes.
+1. Initialize: Initialize a list or array to store the shortest distance from the starting node to each node. Initialize the distance to the starting node as 0 and set the distance to all other nodes as infinity. Initialize a priority queue or min-heap to store nodes by their distance values, then add the starting node with a distance of 0 to the queue. Initialize a set or array to keep track of visited nodes.
 
 2. While the priority queue is not empty: Extract the node with the smallest distance from the priority queue. This node is the current node. Mark the current node as visited (i.e., move it from the "unvisited" set to the "visited" set).
 

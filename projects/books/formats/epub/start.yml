@@ -9,7 +9,7 @@ description: >
   databases, security, testing and quality control, version control, devops,
   modeling languages and diagrams, digital transformation, change management,
   artificial intelligence, and more.
-cover-image: "../../assets/images/splash/1600x2500.jpg"
+cover-image: "../../../../assets/images/cover/1600x2500.jpg"
 links-as-notes: false
 listings-disable-line-numbers: true
 listings-no-page-break: false

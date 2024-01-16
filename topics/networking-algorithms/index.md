@@ -1,6 +1,6 @@
 # Networking algorithms
 
-Networking algorithms are a category of algorithms used in computer networking to address various tasks related to data transmission, routing, congestion control, and network management. These algorithms play a crucial role in ensuring the efficient and reliable operation of computer networks. 
+Networking algorithms are a category of algorithms used in computer networking to address various tasks related to data transmission, routing, congestion control, and network management. These algorithms play a crucial role in ensuring the efficient and reliable operation of computer networks.
 
 Some common categories and examples:
 

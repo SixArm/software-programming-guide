@@ -4,11 +4,11 @@ The Edit Distance (also known as Levenshtein Distance) is a measure of the simil
 
 Steps:
 
-1. Create a matrix (2D array) with dimensions (m+1) x (n+1), where "m" is the length of the first string, and "n" is the length of the second string. 
+1. Create a matrix (2D array) with dimensions (m+1) x (n+1), where "m" is the length of the first string, and "n" is the length of the second string.
 
 2. Initialize the first row and the first column of the matrix with values from 0 to m and 0 to n, respectively, representing the cost of converting an empty string to a string of length "i" (for the first row) or converting a string of length "j" to an empty string (for the first column).
 
-3. For each cell (i, j), calculate the minimum of the following three values: the value in the cell to the left (representing deletion), the value in the cell above (representing insertion), and the value in the cell diagonally above and to the left (representing substitution). 
+3. For each cell (i, j), calculate the minimum of the following three values: the value in the cell to the left (representing deletion), the value in the cell above (representing insertion), and the value in the cell diagonally above and to the left (representing substitution).
 
 4. Add 1 to the minimum value if the characters in the two strings at positions i-1 and j-1 are not the same (indicating a substitution is needed).
 

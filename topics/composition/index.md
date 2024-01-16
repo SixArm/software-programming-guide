@@ -1,6 +1,6 @@
 # Composition
 
-Composition is a fundamental concept in computer science and software engineering that refers to the practice of creating complex objects or structures by combining simpler or more elementary objects or components. Composition is widely used to build systems in a modular, flexible, and maintainable way. 
+Composition is a fundamental concept in computer science and software engineering that refers to the practice of creating complex objects or structures by combining simpler or more elementary objects or components. Composition is widely used to build systems in a modular, flexible, and maintainable way.
 
 Composition is often used to model a "has-a" relationship between objects. This relationship implies that an object contains or is composed of other objects. For instance, a "Car" has an "Engine" and "Wheels."
 

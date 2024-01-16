@@ -2,7 +2,7 @@
 
 A hash table, also known as a hash map, is a data structure that provides efficient data retrieval by using a key to access a value. It is based on the concept of hashing, which involves converting the key into an index within an array or hash table, allowing for quick lookups and insertions. Hash tables are widely used in computer science and are the basis for various associative array data structures like dictionaries and sets.
 
-Key aspects…
+**Key aspects:**
 
 Hash Function: A hash function takes a key as input and generates an index within the hash table. The quality of the hash function directly impacts the performance of the hash table. A good hash function should distribute keys uniformly across the available hash table slots.
 

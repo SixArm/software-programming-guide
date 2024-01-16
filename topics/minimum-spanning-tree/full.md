@@ -1,6 +1,6 @@
 # Minimum spanning tree (MST)
 
-A minimum spanning tree (MST) is a subset of edges in a connected, undirected graph that connects all the vertices together with the minimum possible total edge weight. MSTs have applications in network design, clustering, and other optimization problems. 
+A minimum spanning tree (MST) is a subset of edges in a connected, undirected graph that connects all the vertices together with the minimum possible total edge weight. MSTs have applications in network design, clustering, and other optimization problems.
 
 One of the most popular algorithms for finding a minimum spanning tree is Kruskal's algorithm.
 

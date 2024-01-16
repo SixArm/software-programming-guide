@@ -2,7 +2,7 @@
 
 Practical Byzantine Fault Tolerance (PBFT) is a consensus algorithm designed to achieve fault tolerance and consensus in distributed systems, even in the presence of Byzantine faults. Byzantine faults refer to arbitrary and malicious behavior by nodes in a distributed network, such as sending contradictory messages, failing to respond, or intentionally trying to disrupt the network's operation.
 
-Key aspects…
+**Key aspects:**
 
 Asynchronous Network: PBFT operates in an asynchronous network environment, meaning there are no assumptions made about message delivery times or message ordering.
 

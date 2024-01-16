@@ -7,6 +7,14 @@ summary: >
   databases, security, testing and quality control, version control, devops,
   modeling languages and diagrams, digital transformation, change management,
   artificial intelligence, and more.
+  
+  The book explains one topic per page, akin to a big glossary of terminology, or collection of introductory wiki pages, or an encyclopedia collection of summary notes.
+bio: >
+  Joel Parker Henderson is a global 
+  technology consultant, programmer, 
+  open source leader, and book editor.
+  To learn more and to connect online:
+  https://linktr.ee/joelparkerhenderson
 categories:
   - Kindle Books / Computers & Technology / Programming / General
   - Kindle Books / Computers & Technology / Programming / Software Design, Testing & Engineering / Software Development
@@ -19,3 +27,12 @@ keywords:
   - design patterns
   - artificial intelligence
   - markup languages
+isbn: ""
+paperback:
+  dimensions: 8x10 inch
+  finish: glossy
+  cover:
+    spine:
+      font: Open Sans 14pt
+      title-align: left
+      author-align: right

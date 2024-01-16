@@ -1,4 +1,4 @@
-# Error detection and correction algorithms 
+# Error detection and correction algorithms
 
 Error detection and correction algorithms are techniques used in data communication and storage systems to detect and, in some cases, correct errors that may occur due to various factors such as noise in transmission, hardware faults, or data corruption. These algorithms are crucial for maintaining the integrity and reliability of data. Here are some common techniques.
 

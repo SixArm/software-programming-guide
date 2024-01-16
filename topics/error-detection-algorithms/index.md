@@ -1,6 +1,6 @@
-# Error detection algorithms 
+# Error detection algorithms
 
-Error detection algorithms are techniques used in data communication and storage systems to detect errors that may occur due to various factors such as noise in transmission, hardware faults, or data corruption. These algorithms are crucial for maintaining the integrity and reliability of data. 
+Error detection algorithms are techniques used in data communication and storage systems to detect errors that may occur due to various factors such as noise in transmission, hardware faults, or data corruption. These algorithms are crucial for maintaining the integrity and reliability of data.
 
 Some common ones:
 

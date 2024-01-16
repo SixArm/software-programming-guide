@@ -2,7 +2,7 @@
 
 A distributed ledger is a decentralized and tamper-resistant system for recording and storing transactions or data across multiple nodes or computers. It enables multiple parties to maintain a shared and synchronized database without relying on a central authority. Distributed ledgers are a core component of blockchain technology, but not all distributed ledgers use blockchain.
 
-Key aspects…
+**Key aspects:**
 
 Decentralization: Each participating node in the network holds a copy of the entire ledger, and all nodes work together to validate and agree on the state of the ledger.
 

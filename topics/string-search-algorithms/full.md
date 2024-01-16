@@ -1,6 +1,6 @@
 # String search algorithms
 
-String search algorithms, also known as string matching algorithms, are used to find the occurrences of a substring (or pattern) within a longer text (or main string). These algorithms have applications in various fields, including text processing, data analysis, and information retrieval. 
+String search algorithms, also known as string matching algorithms, are used to find the occurrences of a substring (or pattern) within a longer text (or main string). These algorithms have applications in various fields, including text processing, data analysis, and information retrieval.
 
 Several well-known string search algorithms include…
 

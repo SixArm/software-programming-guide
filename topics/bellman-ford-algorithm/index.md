@@ -1,4 +1,4 @@
-# Bellman-Ford algorithm 
+# Bellman-Ford algorithm
 
 The Bellman-Ford algorithm is used to find the shortest paths from a single source vertex to all other vertices in a weighted directed graph, even when the graph contains negative weight edges. The algorithm iteratively refines the distance estimates until they converge to the correct values.
 

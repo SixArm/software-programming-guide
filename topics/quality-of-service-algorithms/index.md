@@ -1,6 +1,6 @@
 # Quality of Service (QoS) algorithms
 
-Quality of Service (QoS) algorithms and mechanisms are essential in telecommunications to  prioritize, manage, and control network traffic, allowing for better service delivery, especially in environments where multiple applications with different requirements share the same network infrastructure. 
+Quality of Service (QoS) algorithms and mechanisms are essential in telecommunications to  prioritize, manage, and control network traffic, allowing for better service delivery, especially in environments where multiple applications with different requirements share the same network infrastructure.
 
 Some common ones:
 

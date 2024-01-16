@@ -1,14 +1,14 @@
 # Binary heap
 
-A binary heap data structure is a specialized tree that is efficient for maintaining a dynamically changing collection of elements with efficient insertion, deletion, and retrieval of the minimum element or maximum element. 
+A binary heap data structure is a specialized tree that is efficient for maintaining a dynamically changing collection of elements with efficient insertion, deletion, and retrieval of the minimum element or maximum element.
 
 A binary heap is commonly used for implementing priority queues, and is a component in other algorithms, including heapsort.
 
-Key aspects…
+**Key aspects:**
 
-Heap Property: 
+Heap Property:
 
-* In a min-heap, for any given node, the value of that node is less than or equal to the values of its children. 
+* In a min-heap, for any given node, the value of that node is less than or equal to the values of its children.
 
 * In a max-heap, for any given node, the value of that node is greater than or equal to the values of its children.
 

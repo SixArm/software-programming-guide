@@ -8,7 +8,7 @@ Implementations of stacks can vary. In programming, stacks are often implemented
 
 Common use cases for stacks include managing function calls and recursion in programming, tracking states in algorithms, implementing undo/redo functionality in applications, and backtracking capabilities for algorithms.
 
-Key operations…
+**Key aspects:**
 
 Push: Add an element to the top of the stack. The new element becomes the top element.
 

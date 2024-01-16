@@ -2,7 +2,7 @@
 
 A Binary search tree (BST) is a binary tree data structure. Each node in the tree has a value. The tree is divided into three parts: the left subtree, the right subtree, and the root node. All elements in the left subtree have values less than the root's value. All elements in the right subtree have values greater than the root's value. A BST maintains an ordered structure, which makes it an efficient data structure for searching, inserting, and deleting elements.
 
-Key aspects:
+**Key aspects:**
 
 * Search: The tree enables an efficient divide-and-conquer approach. Search time complexity in a balanced BST is `O(log n)`. Worst case, when the tree is unbalanced, is `O(n)`.
 

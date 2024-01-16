@@ -4,7 +4,7 @@ A balanced tree (b-tree) is a self-balancing tree-like data structure that maint
 
 The root node is the topmost node in the b-tree. All leaf nodes are at the same level and contain data entries. They have no children, and they can have between t-1 and 2t-1 keys.
 
-Key aspects:
+**Key aspects:**
 
 * Split: When a node exceeds its maximum allowed number of keys, it is split into two nodes; the median key is promoted to the parent node.
 

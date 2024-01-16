@@ -1,6 +1,6 @@
 # Heap sort algorithm
 
-Heap Sort is a comparison-based sorting algorithm that uses a binary heap data structure to build a max-heap or min-heap. The algorithm then repeatedly removes the root element (which is the maximum element in a max-heap or the minimum element in a min-heap) and rebuilds the heap. This process continues until the heap is empty. 
+Heap Sort is a comparison-based sorting algorithm that uses a binary heap data structure to build a max-heap or min-heap. The algorithm then repeatedly removes the root element (which is the maximum element in a max-heap or the minimum element in a min-heap) and rebuilds the heap. This process continues until the heap is empty.
 
 Heap Sort is an efficient and stable sorting algorithm with an average and worst-case time complexity of `O(n*log(n))`.
 

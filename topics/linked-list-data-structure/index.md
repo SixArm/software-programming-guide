@@ -8,7 +8,7 @@ Linked lists provide dynamic memory allocation and efficient insertions and dele
 
 A singly linked list has each node point to the next node in the sequence. A doubly linked list has each node points to both the next node and the previous node. A circular linked list has the last node point to the first node, forming a loop.
 
-Key operations…
+**Key aspects:**
 
 Insert: Add a new node to the list, either at the beginning, in the middle, or at the end.
 

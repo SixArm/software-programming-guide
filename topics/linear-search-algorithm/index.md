@@ -1,6 +1,6 @@
 # Linear search algorithm
 
-A linear search algorithm, also known as a sequential search algorithm, is a straightforward method for finding a specific element within a list or array. It works by iterating through the elements one by one until the target element is found or until the entire list has been searched. 
+A linear search algorithm, also known as a sequential search algorithm, is a straightforward method for finding a specific element within a list or array. It works by iterating through the elements one by one until the target element is found or until the entire list has been searched.
 
 Its time complexity is `O(n)`, where n is the number of elements in the list, which means the time it takes to complete the search increases linearly with the size of the list. For large datasets, more efficient search algorithms are used, such as binary search or hash tables.
 
