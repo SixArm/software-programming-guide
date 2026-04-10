@@ -293,8 +293,9 @@ Software Programming Guide: this book explains one topic per page, like a big gl
 
 - [Big design up front (BDUF)](topics/big-design-up-front)
 - [Domain-Driven Design (DDD)](topics/domain-driven-design)
-- [Behavior-Driven Development (BDD)](topics/behavior-driven-development)
 - [Test-Driven Development (TDD)](topics/test-driven-development)
+- [Behavior-Driven Development (BDD)](topics/behavior-driven-development)
+- [Specification-Driven Development (SDD)](topics/specification-driven-development)
 
 ### [Markup language](topics/markup-language)
 
